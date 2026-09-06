@@ -1,0 +1,6 @@
+[submodule "University-project-api"]
+	path = University-project-api
+	url = https://github.com/YomYom23/University-project-api.git
+[submodule "university-project-frontend"]
+	path = university-project-frontend
+	url = https://github.com/YomYom23/university-project-frontend.git
